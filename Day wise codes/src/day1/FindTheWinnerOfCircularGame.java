@@ -1,3 +1,5 @@
+package day1;
+
 public class FindTheWinnerOfCircularGame {
     public static void main(String[] args) {
         FindTheWinnerOfCircularGame obj = new FindTheWinnerOfCircularGame();

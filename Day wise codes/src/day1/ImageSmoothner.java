@@ -1,3 +1,5 @@
+package day1;
+
 public class ImageSmoothner {
     public static void main(String[] args) {
         int[][] image = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
