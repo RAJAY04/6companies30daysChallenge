@@ -1,4 +1,8 @@
 package day7;
+/**
+ * This is a Java documentation comment.
+ * It can span multiple lines.
+ */
 
 public class FirstUniqueCharacterinaString {
     public static void main(String[] args) {
@@ -18,3 +22,4 @@ public class FirstUniqueCharacterinaString {
         return -1;
     }
 }
+
